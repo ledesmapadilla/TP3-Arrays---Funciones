@@ -6,7 +6,7 @@ Este es un repositorio se resuelven 10 ejercicios de arrays y funciones, en los 
 
 # 🎇 Demo del proyecto.
 
-Para poder ver el proyecto, entrá 👉 [Aqui]
+Para poder ver el proyecto, entrá 👉 [Aqui] https://tp3-arraysfunciones-lp.netlify.app/
 
 # 💡Tecnologias utilizadas:
 
