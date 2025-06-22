@@ -2,7 +2,7 @@
 
 ## 📓 Ejercicios de práctica de JS, con arrays y funciones
 
-Este es un repositorio se resuelven 10 ejercicios de arrays y funciones, en los cuales se practica su uso para afianzar conocimientos
+Este es un repositorio en el que se resuelven 10 ejercicios de arrays y funciones, en los cuales se practica su uso, para afianzar conocimientos
 
 # 🎇 Demo del proyecto.
 
